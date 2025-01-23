@@ -1,5 +1,5 @@
-# The Polaris Toolkit for Apache Devlake
-## Open source Grafana Dashboards for Apache DevLake
+# The Polaris Dashboards for Apache Devlake
+### Open source Grafana Dashboards for Apache DevLake
 
 This repo contains open source dashboards that you can install on [Apache Devlake](https://devlake.apache.org) to get visibility and measure key aspects of your product and delivery process. 
 
